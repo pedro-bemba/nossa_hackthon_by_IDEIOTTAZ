@@ -26,3 +26,7 @@ data/chirps/*
 # OS
 .DS_Store
 Thumbs.db
+
+# Base de dados local (SQLite)
+*.db
+*.sqlite3
