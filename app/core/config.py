@@ -20,4 +20,6 @@ class Settings(BaseSettings):
 
 @lru_cache
 def get_settings() -> Settings:
+    weather_provider: str = "chirps"
+
     return Settings()
