@@ -53,7 +53,7 @@ Estas funcionalidades permitem rastrear as observações meteorológicas, as reg
 
 ### 🚀 Objectivo
 
-Demonstrar como a tecnologia, os dados meteorológicos e a automatização podem tornar o seguro agrícola mais acessível, transparente e inclusivo, contribuindo para a protecção financeira dos agricultores angolanos_.
+Demonstrar como a tecnologia, os dados meteorológicos e a automatização podem tornar o seguro agrícola mais acessível, transparente e inclusivo, contribuindo para a protecção financeira dos agricultores angolanos.
 
 **NOSSA Campo — O seguro que cai com a chuva.**
 
