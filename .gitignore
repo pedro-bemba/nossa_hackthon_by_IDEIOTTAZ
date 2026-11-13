@@ -46,3 +46,7 @@ env/
 .DS_Store
 # Ambientes virtuais (nome local usado neste repo)
 ideotazz/
+
+# Python cache
+__pycache__/
+*.py[cod]
