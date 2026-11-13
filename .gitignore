@@ -44,3 +44,5 @@ env/
 
 # System
 .DS_Store
+# Ambientes virtuais (nome local usado neste repo)
+ideotazz/
