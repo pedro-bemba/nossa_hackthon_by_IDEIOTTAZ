@@ -30,3 +30,11 @@ def get_combined_observations(lat: float, lon: float, day: date) -> list[Observa
         except (FileNotFoundError, ValueError):
             continue
     return results
+
+# Providers que devolvem dados simulados — declarado aqui para a camada HTTP
+# poder marcar `is_mock` sem inferir pela string do source.
+MOCK_SOURCES: frozenset[str] = frozenset({"inamet"})
+
+
+def list_providers() -> list[str]:
+    return sorted(_REGISTRY.keys())
